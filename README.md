@@ -1,8 +1,7 @@
 # xylophone
 
 A new Flutter application.
-
-## Getting Started
+<img src="https://github.com/shivanigupta19/User-Interface-Random/blob/master/Images/Xylophone.jpeg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 This project is a starting point for a Flutter application.
 
